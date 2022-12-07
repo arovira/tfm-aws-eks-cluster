@@ -9,7 +9,7 @@ Documentation regarding EKS (including EKS managed node group, self managed node
 ### General
 
 * Description: Terraform module to create an EKS cluster with VPN setup
-* Created By: arnau.rovira@bitsighttech.com
+* Created By: arovira
 
 ### Usage
 
